@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T03:26:06.535294",
+  "last_updated": "2026-11-25T13:58:46.561636",
   "events": [
     {
       "title": "Core Retail Sales q/q",
@@ -316,7 +316,7 @@
     {
       "title": "German 10-y Bond Auction",
       "country": "EUR",
-      "date": "2026-11-25T05:42:00-05:00",
+      "date": "2026-11-25T05:32:00-05:00",
       "impact": "Low",
       "forecast": "",
       "previous": "3.37|1.1"
